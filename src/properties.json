@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "image": "/land/img2.jpg",
+    "image": "/land/img3.jfif",
     "status": "For Sale",
     "price": "₦20,000,000",
     "title": "1 Plot of Fenced Land in Amaoba, Umudike, Ikwuano",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "image": "/land/img2.jpg",
+    "image": "/land/img4.jpeg",
     "status": "For Sale",
     "price": "₦10,000,000",
     "title": "1 Plot of Land in Amakamma Federal Housing Estate",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "image": "/land/img2.jpg",
+    "image": "/land/img5.jpeg",
     "status": "For Sale",
     "price": "₦10,000,000",
     "title": "30 Plots of Land in Amakamma Federal Housing Estate",
