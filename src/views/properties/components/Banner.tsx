@@ -17,7 +17,15 @@ interface LandCardProps {
 
 const LandCard: React.FC<LandCardProps> = ({ land }) => {
   const { image, status, price, title, location, size, document } = land;
-
+  const openWhatsApp = () => {
+    // Replace with your actual WhatsApp number (in international format)
+    const phoneNumber = "2347036869758"; // e.g. 234 for Nigeria + 9012345678
+    const message = encodeURIComponent(
+      "Hello! I'm interested in your land listings."
+    );
+    const url = `https://wa.me/${phoneNumber}?text=${message}`;
+    window.open(url, "_blank");
+  };
   return (
     <Card extra="flex flex-col w-full h-full p-4 bg-cover">
       {/* Land Image */}
@@ -51,10 +59,13 @@ const LandCard: React.FC<LandCardProps> = ({ land }) => {
 
       {/* Action Buttons */}
       <div className="flex w-full items-center justify-between">
-        <button className="rounded-lg bg-green-600 px-4 py-2 text-sm font-semibold text-white transition-all hover:bg-green-700">
+        {/* <button className="rounded-lg bg-green-600 px-4 py-2 text-sm font-semibold text-white transition-all hover:bg-green-700">
           View Details
-        </button>
-        <button className="rounded-lg border border-green-600 px-4 py-2 text-sm font-semibold text-green-700 transition-all hover:bg-green-50">
+        </button> */}
+        <button
+          onClick={openWhatsApp}
+          className="rounded-lg border border-green-600 px-4 py-2 text-sm font-semibold text-green-700 transition-all hover:bg-green-50"
+        >
           Contact Agent
         </button>
       </div>
