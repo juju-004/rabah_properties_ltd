@@ -7,6 +7,7 @@
     "title": "1 Plot of Land in Amaoba, Umudike, Ikwuano",
     "location": "Umuahia, Abia State",
     "size": "1200 sqm",
+    "state": "Abia",
     "document": "C of O"
   },
   {
@@ -17,6 +18,7 @@
     "title": "4 Plots of Land in Amaoba, Umudike, Ikwuano",
     "location": "Umuahia, Abia State",
     "size": "600 sqm",
+    "state": "Abia",
     "document": "Survey Plan"
   },
   {
@@ -27,6 +29,7 @@
     "title": "1 Plot of Fenced Land in Amaoba, Umudike, Ikwuano",
     "location": "Umuahia, Abia State",
     "size": "600 sqm",
+    "state": "Abia",
     "document": "Survey Plan , Power Of Attorney"
   },
   {
@@ -37,6 +40,7 @@
     "title": "1 Plot of Land in Amakamma Federal Housing Estate",
     "location": "Umuahia South, Abia State",
     "size": "600 sqm",
+    "state": "Abia",
     "document": "Survey Plan , Power Of Attorney"
   },
   {
@@ -47,6 +51,175 @@
     "title": "30 Plots of Land in Amakamma Federal Housing Estate",
     "location": "Umuahia South, Abia State",
     "size": "600 sqm",
+    "state": "Abia",
     "document": "Survey Plan , Power Of Attorney"
+  },
+  {
+    "id": 6,
+    "image": null,
+    "status": "For Sale",
+    "price": "₦2,000,000",
+    "slashedprice": "₦2,500,000",
+    "title": "Land for sale in Ikorodu Phase 2",
+    "location": "Emuren Town,By Caleb University, Along Imota road",
+    "size": "600 sqm",
+    "state": "Lagos",
+    "document": "Perimeter Survey/layout"
+  },
+  {
+    "id": 7,
+    "image": null,
+    "status": "For Sale",
+    "price": "₦1,000,000",
+    "slashedprice": "₦1,250,000",
+    "title": "Land for sale in Ikorodu Phase 2",
+    "location": "Emuren Town,By Caleb University, Along Imota road",
+    "size": "300 sqm",
+    "state": "Lagos",
+    "document": "Perimeter Survey/layout"
+  },
+  {
+    "id": 11,
+    "image": null,
+    "status": "For Sale",
+    "price": "₦2,000,000",
+    "slashedprice": "₦2,500,000",
+    "title": "Land for sale at Atan-Owode",
+    "location": "Owode, Ado-Ota Local Govt. Aromokola, Ogun State",
+    "size": "600 sqm",
+    "state": "Ogun",
+    "document": "Perimeter Survey/layout"
+  },
+  {
+    "id": 12,
+    "image": null,
+    "status": "For Sale",
+    "price": "₦1,000,000",
+    "slashedprice": "₦1,250,000",
+    "title": "Land for sale at Atan-Owode",
+    "location": "Owode, Ado-Ota Local Govt. Aromokola, Ogun State",
+    "size": "300 sqm",
+    "state": "Ogun",
+    "document": "Perimeter Survey/layout"
+  },
+  {
+    "id": 8,
+    "image": null,
+    "status": "For Sale",
+    "price": "₦2,000,000",
+    "slashedprice": "₦2,500,000",
+    "title": "Land for sale at Atan Sokoto Road",
+    "location": "Wasimi-Alaga, Adekoyeni Town",
+    "size": "600 sqm",
+    "state": "Ogun",
+    "document": "Perimeter Survey/layout"
+  },
+  {
+    "id": 9,
+    "image": null,
+    "status": "For Sale",
+    "price": "₦1,000,000",
+    "slashedprice": "₦1,250,000",
+    "title": "Land for sale at Atan Sokoto Road",
+    "location": "Wasimi-Alaga, Adekoyeni Town",
+    "size": "300 sqm",
+    "state": "Ogun",
+    "document": "Perimeter Survey/layout"
+  },
+  {
+    "id": 15,
+    "image": null,
+    "status": "For Sale",
+    "price": "₦2,000,000",
+    "slashedprice": "₦2,500,000",
+    "title": "Land for sale at Anjorin phase 2",
+    "location": "Ifo, Coker / Ibogun Road",
+    "size": "600 sqm",
+    "state": "Ogun",
+    "document": "Perimeter Survey/layout"
+  },
+  {
+    "id": 16,
+    "image": null,
+    "status": "For Sale",
+    "price": "₦1,000,000",
+    "slashedprice": "₦1,250,000",
+    "title": "Land for sale at Anjorin phase 2",
+    "location": "Ifo, Coker / Ibogun Road",
+    "size": "300 sqm",
+    "state": "Ogun",
+    "document": "Perimeter Survey/layout"
+  },
+  {
+    "id": 9,
+    "image": null,
+    "status": "For Sale",
+    "price": "₦6,000,000",
+    "slashedprice": "₦7,500,000",
+    "title": "Land for sale at Shimawa",
+    "location": "Alawun, via Shimawa",
+    "size": "500 sqm",
+    "state": "Ogun",
+    "document": "Registered Survey, Deeds and Family Receipt"
+  },
+  {
+    "id": 10,
+    "image": null,
+    "status": "For Sale",
+    "price": "₦3,000,000",
+    "slashedprice": "₦3,750,000",
+    "title": "Land for sale at Shimawa",
+    "location": "Alawun, via Shimawa",
+    "size": "250 sqm",
+    "state": "Ogun",
+    "document": "Registered Survey, Deeds and Family Receipt"
+  },
+  {
+    "id": 9,
+    "image": null,
+    "status": "For Sale",
+    "price": "₦3,000,000",
+    "slashedprice": "₦3,500,000",
+    "title": "Land for sale in Epe",
+    "location": "Ketu Epe, Lagos",
+    "size": "500 sqm",
+    "state": "Lagos",
+    "document": "Registered Survey, Deeds and Family Receipt"
+  },
+  {
+    "id": 10,
+    "image": null,
+    "status": "For Sale",
+    "price": "₦1,500,000",
+    "slashedprice": "₦1,750,000",
+    "title": "Land for sale in Epe",
+    "location": "Ketu Epe, Lagos",
+    "size": "300 sqm",
+    "state": "Lagos",
+    "document": "Registered Survey, Deeds and Family Receipt"
+  },
+  {
+    "id": 13,
+    "image": null,
+    "status": "For Sale",
+    "price": "₦7,000,000",
+    "slashedprice": "₦8,500,000",
+    "title": "Land for sale at Abijo",
+    "location": "Eko Akete Abijo",
+    "size": "500 sqm",
+    "state": "Lagos",
+    "document": "Registered Survey, Deeds and Family Receipt"
+  },
+  {
+    "id": 14,
+    "image": null,
+    "status": "For Sale",
+    "price": "₦3,500,000",
+    "slashedprice": "₦4,250,000",
+    "title": "Land for sale at Abijo",
+    "location": "Eko Akete Abijo",
+    "size": "250 sqm",
+    "state": "Lagos",
+    "document": "Registered Survey, Deeds and Family Receipt"
   }
 ]
