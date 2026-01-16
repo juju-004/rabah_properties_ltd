@@ -34,7 +34,7 @@
   },
   {
     "id": 4,
-    "image": "/land/img4.jpeg",
+    "image": "/land/img5.jpeg",
     "status": "For Sale",
     "price": "₦10,000,000",
     "title": "1 Plot of Land in Amakamma Federal Housing Estate",
@@ -56,7 +56,7 @@
   },
   {
     "id": 6,
-    "image": null,
+    "image": "/land/img7.jfif",
     "status": "For Sale",
     "price": "₦2,000,000",
     "slashedprice": "₦2,500,000",
@@ -68,7 +68,7 @@
   },
   {
     "id": 7,
-    "image": null,
+    "image": "/land/img7.jfif",
     "status": "For Sale",
     "price": "₦1,000,000",
     "slashedprice": "₦1,250,000",
@@ -80,7 +80,7 @@
   },
   {
     "id": 11,
-    "image": null,
+    "image": "/land/img6.jpg",
     "status": "For Sale",
     "price": "₦2,000,000",
     "slashedprice": "₦2,500,000",
@@ -92,7 +92,7 @@
   },
   {
     "id": 12,
-    "image": null,
+    "image": "/land/img6.jpg",
     "status": "For Sale",
     "price": "₦1,000,000",
     "slashedprice": "₦1,250,000",
@@ -104,7 +104,7 @@
   },
   {
     "id": 8,
-    "image": null,
+    "image": "/land/img8.jfif",
     "status": "For Sale",
     "price": "₦2,000,000",
     "slashedprice": "₦2,500,000",
@@ -116,7 +116,7 @@
   },
   {
     "id": 9,
-    "image": null,
+    "image": "/land/img8.jfif",
     "status": "For Sale",
     "price": "₦1,000,000",
     "slashedprice": "₦1,250,000",
@@ -128,7 +128,7 @@
   },
   {
     "id": 15,
-    "image": null,
+    "image": "/land/img4.jpg",
     "status": "For Sale",
     "price": "₦2,000,000",
     "slashedprice": "₦2,500,000",
@@ -140,7 +140,7 @@
   },
   {
     "id": 16,
-    "image": null,
+    "image": "/land/img4.jpg",
     "status": "For Sale",
     "price": "₦1,000,000",
     "slashedprice": "₦1,250,000",
@@ -152,7 +152,7 @@
   },
   {
     "id": 9,
-    "image": null,
+    "image": "/land/img6.jfif",
     "status": "For Sale",
     "price": "₦6,000,000",
     "slashedprice": "₦7,500,000",
@@ -164,7 +164,7 @@
   },
   {
     "id": 10,
-    "image": null,
+    "image": "/land/img6.jfif",
     "status": "For Sale",
     "price": "₦3,000,000",
     "slashedprice": "₦3,750,000",
@@ -176,7 +176,7 @@
   },
   {
     "id": 9,
-    "image": null,
+    "image": "/land/img10.jfif",
     "status": "For Sale",
     "price": "₦3,000,000",
     "slashedprice": "₦3,500,000",
@@ -188,7 +188,7 @@
   },
   {
     "id": 10,
-    "image": null,
+    "image": "/land/img10.jfif",
     "status": "For Sale",
     "price": "₦1,500,000",
     "slashedprice": "₦1,750,000",
@@ -200,7 +200,7 @@
   },
   {
     "id": 13,
-    "image": null,
+    "image": "/land/img9.jfif",
     "status": "For Sale",
     "price": "₦7,000,000",
     "slashedprice": "₦8,500,000",
@@ -212,7 +212,7 @@
   },
   {
     "id": 14,
-    "image": null,
+    "image": "/land/img9.jfif",
     "status": "For Sale",
     "price": "₦3,500,000",
     "slashedprice": "₦4,250,000",

@@ -4,6 +4,7 @@ import { HiX } from "react-icons/hi";
 import Links from "./components/Links";
 
 import routes from "routes";
+import { BsXCircleFill } from "react-icons/bs";
 
 const Sidebar = (props: {
   open: boolean;
@@ -20,7 +21,7 @@ const Sidebar = (props: {
         className="absolute right-4 top-4 block cursor-pointer xl:hidden"
         onClick={onClose}
       >
-        <HiX />
+        <BsXCircleFill size={25} className="text-gray-800/70 " />
       </span>
 
       <div className={`mx-[56px] mt-14 flex items-center`}>

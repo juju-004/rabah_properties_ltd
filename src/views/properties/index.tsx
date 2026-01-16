@@ -8,9 +8,15 @@ const Properties = () => {
   const lands: Land[] = landsData;
   const [activeTab, setActiveTab] = useState("All");
 
+  const order = ["Lagos", "Ogun", "Abia"];
+
+  const sortedLands = lands.sort((a, b) => {
+    return order.indexOf(a.state) - order.indexOf(b.state);
+  });
+
   const filteredLands =
     activeTab === "All"
-      ? lands
+      ? sortedLands
       : lands.filter((land) => land.state === activeTab);
   return (
     <div className="flex w-full flex-col gap-5">
